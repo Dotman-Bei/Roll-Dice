@@ -40,14 +40,14 @@ const App = () => {
           <div>
             <img
               style={{ width: "100px" }}
-              src={`src/assets/dice${dice}.png`}
+              src={`src/assets/dice${randomNumber}.png`}
               alt=""
             />
           </div>
           <div>
             <img
               style={{ width: "100px" }}
-              src={`src/assets/dice${dice2}.png`}
+              src={`src/assets/dice${randomNumber2}.png`}
               alt=""
             />
           </div>
